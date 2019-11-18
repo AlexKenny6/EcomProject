@@ -4,6 +4,11 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
+        <link rel="stylesheet" href="{{ asset('css/app.css') }}">
+        <link rel="stylesheet" href="{{ asset('css/responsive.css') }}">
+
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700i|Roboto">
+
         <link href="css/fontawesome/css/fontawesome.css" rel="stylesheet">
         <link href="css/fontawesome/css/brands.css" rel="stylesheet">
         <link href="css/fontawesome/css/solid.css" rel="stylesheet">
