@@ -17,7 +17,7 @@ After 7 days of progress, records will be copied/pasted to (Link will be provide
 | ---- | ---- | ---- | :----: | :----: |
 | Nov 16th, 2019 | Ellensburg, WA | Created repo and project | More frontend code | 1 |
 | Nov 17th, 2019 | Ellensburg, WA | Working on front end html/css | More frontend css | 1 |
-
+| Nov 22th, 2019 | Ellensburg, WA | Working on front end html/css | More frontend css, again lol | 1 |
 
 ## Goals:
 After 7 days of progress, records will be copied/pasted to (Link will be provided soon) <!-- [Extended Work Goals]() --> 
@@ -26,7 +26,7 @@ After 7 days of progress, records will be copied/pasted to (Link will be provide
 | ---- | ---- | ---- | :----: | :----: |
 | Nov 16th, 2019 | Ellensburg, WA | Frontend is done | **SWIP** | 1 |
 | Nov 17th, 2019 | Ellensburg, WA | Frontend is done | **SWIP** | 1 |
-
+| Nov 22th, 2019 | Ellensburg, WA | Frontend is done | **SWIP** | 1 |
 
 ## Alex's To Do List:
 ### Items can be edited and deleted as you go 
