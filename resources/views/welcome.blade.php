@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <link rel="stylesheet" href="{{ asset('css/app.css') }}">
+        <link rel="stylesheet" href="{{ asset('css/main.css') }}">
         <link rel="stylesheet" href="{{ asset('css/responsive.css') }}">
 
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700i|Roboto">
@@ -150,9 +150,9 @@
                 <ul>
                     <li>Follow Me @</li>
                     <li><a href="#"><i class="fa fa-globe"></i></a></li>
-                    <li><a href="#"><i class="fa fa-youtube"></i></a></li>
-                    <li><a href="#"><i class="fa fa-github"></i></a></li>
-                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li><a href="#"><i class="fab fa-youtube"></i></a></li>
+                    <li><a href="#"><i class="fab fa-github"></i></a></li>
+                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                 </ul>
             </div>
             <!-- End of Footer Container -->
