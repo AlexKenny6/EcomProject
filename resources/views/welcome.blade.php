@@ -22,7 +22,7 @@
         <header>
             <div class="top-nav container">
                 <div class="logo">
-                    CSS Grid Example
+                    The Ecom Shoes Store
                 </div>
                 <ul>
                     <li><a href="#">Shop</a></li>
@@ -34,15 +34,15 @@
 
             <div class="hero container">
                 <div class="hero-copy">
-                    <h1>CSS grid example</h1>
-                    <p>Some paragraph text</p>
+                    <h1>The Best Place to Buy, Sell, Return, and Trade Shoes</h1>
+                    <br>
                     <a href="#" class="button button-white">Button 1</a>
                     <a href="#" class="button button-white">Button 2</a>
                 </div>
             </div> <!-- end of buttons -->
 
             <div class="hero-image">
-                <img src="#" alt="Hero image">
+                <!--<img src="#" alt="Hero image">-->
             </div>
         </header>
         <!-- End of header -->
@@ -117,21 +117,21 @@
 
                 <div class="blog-posts">
                     <div class="blog-post">
-                        <a href="#"><img src="#" alt="Blog Post Pic"></a>
+                        <a href="#"><img src="img/example-shoes.jpg" alt="Blog Post Pic"></a>
                         <a href="#"><h2 class="blog-title">Blog Post Title 1</h2></a>
                         <div class="blog-description">
                             Lorem ipsum dolor sit amet, consectetur adipisicing.
                         </div>
                     </div>
                     <div class="blog-post">
-                        <a href="#"><img src="#" alt="Blog Post Pic"></a>
+                        <a href="#"><img src="img/example-shoes.jpg" alt="Blog Post Pic"></a>
                         <a href="#"><h2 class="blog-title">Blog Post Title 1</h2></a>
                         <div class="blog-description">
                             Lorem ipsum dolor sit amet, consectetur adipisicing.
                         </div>
                     </div>
                     <div class="blog-post">
-                        <a href="#"><img src="#" alt="Blog Post Pic"></a>
+                        <a href="#"><img src="img/example-shoes.jpg" alt="Blog Post Pic"></a>
                         <a href="#"><h2 class="blog-title">Blog Post Title 1</h2></a>
                         <div class="blog-description">
                             Lorem ipsum dolor sit amet, consectetur adipisicing.
@@ -148,7 +148,7 @@
             <div class="footer-content container">
                 <div class="made-width">Made With <i class="fa fa-heart"></i> and <i class="fas fa-mug-hot"></i> by Alex Kenny</div>
                 <ul>
-                    <li>Follow Me @</li>
+                    <li>Follow Me Here:</li>
                     <li><a href="#"><i class="fa fa-globe"></i></a></li>
                     <li><a href="#"><i class="fab fa-youtube"></i></a></li>
                     <li><a href="#"><i class="fab fa-github"></i></a></li>
