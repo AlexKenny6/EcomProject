@@ -1,0 +1,63 @@
+
+/**************** START OF RESPONSIVE HOME PAGE CSS CODE *****************************/
+
+/* Non-Mobile Devices, wide screens */
+@media only screen and (max-width : 1200px) {
+    .container {
+        max-width: 960px;
+    }
+}
+
+/* Medium devices, desktops */
+@media only screen and (max-width : 992px) {
+    header {
+
+        .header_img {
+            width: 100%;
+            background: no-repeat center;
+            background-image: url("img/yellowPaleBlack-AirJordan1.jpg");
+
+
+            /* Rn trying to make the header img look good */
+            background-size: cover;
+            height: 800px;
+            position: relative;
+        }
+
+        .top-nav {
+            flex-direction: column;
+
+            .logo {
+                margin: auto;
+            }
+
+            ul {
+                margin: 20px auto;
+                width: 88%;
+            }
+        }
+        /* End of top-nav responsiveness code */
+
+        .hero {
+            grid-template-columns: 1fr;
+        }
+    } /* End of header responsiveness code */
+}
+
+/* small devices, tablets */
+@media only screen and (max-width : 768px) {
+
+}
+
+/* Extra small devices, phones */
+@media only screen and (max-width : 480px) {
+
+}
+
+/* Custom devices, literally anything lol -New razor flip phone 2020- */
+@media only screen and (max-width : 320px) {
+
+}
+
+
+
