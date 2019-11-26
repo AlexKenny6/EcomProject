@@ -1,3 +1,4 @@
+/**************** START OF HOME PAGE CSS CODE ********************************/
 @import url("https://fonts.googleapis.com/css?family=Montserrat:300,400,700i|Roboto");
 /* variables for website */
 /* some home page code */
@@ -179,5 +180,45 @@ footer .footer-content ul a {
 }
 
 /* end of home page code */
+/**************** START OF RESPONSIVE HOME PAGE CSS CODE *****************************/
+/* Non-Mobile Devices, wide screens */
+@media only screen and (max-width: 1200px) {
+  .container {
+    max-width: 960px;
+  }
+}
+/* Medium devices, desktops */
+@media only screen and (max-width: 992px) {
+  header {
+    /* End of top-nav responsiveness code */
+  }
+  header .header_img {
+    width: 100%;
+    background: no-repeat center;
+    background-image: url("img/yellowPaleBlack-AirJordan1.jpg");
+    /* Rn trying to make the header img look good */
+    background-size: cover;
+    height: 800px;
+    position: relative;
+  }
+  header .top-nav {
+    flex-direction: column;
+  }
+  header .top-nav .logo {
+    margin: auto;
+  }
+  header .top-nav ul {
+    margin: 20px auto;
+    width: 88%;
+  }
+  header .hero {
+    grid-template-columns: 1fr;
+  }
+
+  /* End of header responsiveness code */
+}
+/* small devices, tablets */
+/* Extra small devices, phones */
+/* Custom devices, literally anything lol -New razor flip phone 2020- */
 
 /*# sourceMappingURL=main.css.map */
