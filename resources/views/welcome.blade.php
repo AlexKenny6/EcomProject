@@ -20,36 +20,38 @@
     </head>
     <body>
         <header>
-            <div class="top-nav container">
-                <div class="logo">
-                    The Ecom Shoes Store
-                </div>
-                <ul>
-                    <li><a href="#">Shop</a></li>
-                    <li><a href="#">About</a></li>
-                    <li><a href="#">Blog</a></li>
-                    <li><a href="#">Cart</a></li>
-                </ul>
-            </div> <!-- end of top-nav -->
+            <div class="header_img">
+                <div class="top-nav container">
+                    <div class="logo">
+                        The Ecom Shoes Store
+                    </div>
+                    <ul>
+                        <li><a href="#">Shop</a></li>
+                        <li><a href="#">About</a></li>
+                        <li><a href="#">Blog</a></li>
+                        <li><a href="#">Cart</a></li>
+                    </ul>
+                </div> <!-- end of top-nav -->
 
-            <div class="hero container">
-                <div class="hero-copy">
-                    <h1>The Best Place to Buy, Sell, Return, and Trade Shoes</h1>
-                    <br>
-                    <a href="#" class="button button-white">Button 1</a>
-                    <a href="#" class="button button-white">Button 2</a>
-                </div>
-            </div> <!-- end of buttons -->
+                <div class="hero container">
+                    <div class="hero-copy">
+                        <h1>The Best Place to Buy, Sell, Return, and Trade Shoes</h1>
+                        <br>
+                        <a href="#" class="button button-white">Button 1</a>
+                        <a href="#" class="button button-white">Button 2</a>
+                    </div>
+                </div> <!-- end of buttons -->
 
-            <div class="hero-image">
-                <!--<img src="#" alt="Hero image">-->
+                <div class="hero-image">
+                    <!--<img src="img/yellowPaleBlack-AirJordan1.jpg" alt="Hero image">-->
+                </div>
             </div>
         </header>
         <!-- End of header -->
 
         <div class="featured-section">
             <div class="container">
-                <h1 class="text-center">CSS Grid Example</h1>
+                <h1 class="text-center">This is a test text</h1>
                 <p class="section-description">
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae blanditiis cum deleniti doloribus ea eaque fugiat laboriosam rerum saepe unde?
                 </p>
@@ -146,7 +148,9 @@
 
         <footer>
             <div class="footer-content container">
-                <div class="made-width">Made With <i class="fa fa-heart"></i> and <i class="fas fa-mug-hot"></i> by Alex Kenny</div>
+                <div class="made-width">
+                    <p>Made With <i class="fa fa-heart"></i> and <i class="fas fa-mug-hot"></i> by Alex Kenny</p>
+                </div>
                 <ul>
                     <li>Follow Me Here:</li>
                     <li><a href="#"><i class="fa fa-globe"></i></a></li>
