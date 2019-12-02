@@ -18,6 +18,7 @@ After 7 days of progress, records will be copied/pasted to (Link will be provide
 | Nov 16th, 2019 | Ellensburg, WA | Created repo and project | More frontend code | 1 |
 | Nov 17th, 2019 | Ellensburg, WA | Working on front end html/css | More frontend css | 1 |
 | Nov 22th, 2019 | Ellensburg, WA | Working on front end html/css | More frontend css, again lol | 1 |
+| Dec 2nd, 2019 | Ellensburg, WA | Finished front end html/css | Backend code | 1 |
 
 ## Goals:
 After 7 days of progress, records will be copied/pasted to (Link will be provided soon) <!-- [Extended Work Goals]() --> 
@@ -27,11 +28,20 @@ After 7 days of progress, records will be copied/pasted to (Link will be provide
 | Nov 16th, 2019 | Ellensburg, WA | Frontend is done | **SWIP** | 1 |
 | Nov 17th, 2019 | Ellensburg, WA | Frontend is done | **SWIP** | 1 |
 | Nov 22th, 2019 | Ellensburg, WA | Frontend is done | **SWIP** | 1 |
+| Dec 2nd, 2019 | Ellensburg, WA | Frontend is done | **Y** | 1 |
 
 ## Alex's To Do List:
 ### Items can be edited and deleted as you go 
 
 | Task (Short Description) | Priority: 1 = High, 5 = Low | 
 | ---- | :----: |
-| Cont. to code frontend css | 1 |
+| Move onto backend code | 1 |
+
+
+## Work Notes:
+After 7 days of progress, records will be copied/pasted to (Link will be provided soon) <!-- [Extended Notes Page]() -->
+
+| Date | Location | Note | User ID |
+| ---- | ---- | ---- | :----: |
+| Dec 2nd, 2019 | Ellensburg, WA | Didn't code over Thanksgiving Break, back at it now! | 1 |
 
