@@ -40,11 +40,10 @@
                         <a href="#" class="button button-white">Button 1</a>
                         <a href="#" class="button button-white">Button 2</a>
                     </div>
+                    <div class="hero-image">
+                        <img src="img/yellowPaleBlk-AirJordans-New.png" alt="Hero image">
+                    </div>
                 </div> <!-- end of buttons -->
-
-                <div class="hero-image">
-                    <!--<img src="img/yellowPaleBlack-AirJordan1.jpg" alt="Hero image">-->
-                </div>
             </div>
         </header>
         <!-- End of header -->
@@ -118,21 +117,21 @@
                 <p class="section-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati, reprehenderit?</p>
 
                 <div class="blog-posts">
-                    <div class="blog-post">
+                    <div class="blog-post" id="blog1">
                         <a href="#"><img src="img/example-shoes.jpg" alt="Blog Post Pic"></a>
                         <a href="#"><h2 class="blog-title">Blog Post Title 1</h2></a>
                         <div class="blog-description">
                             Lorem ipsum dolor sit amet, consectetur adipisicing.
                         </div>
                     </div>
-                    <div class="blog-post">
+                    <div class="blog-post" id="blog2">
                         <a href="#"><img src="img/example-shoes.jpg" alt="Blog Post Pic"></a>
                         <a href="#"><h2 class="blog-title">Blog Post Title 1</h2></a>
                         <div class="blog-description">
                             Lorem ipsum dolor sit amet, consectetur adipisicing.
                         </div>
                     </div>
-                    <div class="blog-post">
+                    <div class="blog-post" id="blog3">
                         <a href="#"><img src="img/example-shoes.jpg" alt="Blog Post Pic"></a>
                         <a href="#"><h2 class="blog-title">Blog Post Title 1</h2></a>
                         <div class="blog-description">
