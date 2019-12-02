@@ -10,19 +10,30 @@
 
 /* Medium devices, desktops */
 @media only screen and (max-width : 992px) {
+
+    img {
+        padding-right: 0;
+        max-height: 500px;
+        max-width: 600px;
+        width: 100%;
+        height: 100%;
+        margin: 0;
+    }
+
     header {
 
-        .header_img {
+        /*
+        header_img {
             width: 100%;
             background: no-repeat center;
-            background-image: url("img/yellowPaleBlack-AirJordan1.jpg");
+            /*background-image: url("img/yellowPaleBlack-AirJordan1.jpg");
 
 
-            /* Rn trying to make the header img look good */
+
             background-size: cover;
             height: 800px;
             position: relative;
-        }
+        } */
 
         .top-nav {
             flex-direction: column;
@@ -40,9 +51,46 @@
 
         .hero {
             grid-template-columns: 1fr;
+            text-align: center;
+
+            .hero-image {
+                padding-left: 0;
+                margin-top: 40px;
+            }
         }
     } /* End of header responsiveness code */
-}
+    .featured-section {
+        padding: 40px 0;
+
+        .products {
+            grid-template-columns: 1fr;
+        }
+    }
+
+    .blog-section {
+        .blog-posts {
+            grid-template-columns: 1fr;
+            text-align: center;
+            grid-template-areas:
+                "blog1"
+                "blog2"
+                "blog3";
+        }
+    }
+
+    .footer-content {
+        flex-direction: column;
+
+        .made-width {
+            margin: auto;
+        }
+
+        ul {
+            margin: 20px auto;
+            width: 60%;
+        }
+    }
+} /* End of max-width : 992px responsive code */
 
 /* small devices, tablets */
 @media only screen and (max-width : 768px) {

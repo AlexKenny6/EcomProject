@@ -1,7 +1,6 @@
 
 /**************** START OF HOME PAGE CSS CODE ********************************/
 
-@charset "utf-8";
 
 @import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,700i|Roboto');
 
@@ -56,6 +55,15 @@ h2 {
 
 img {
     max-width: 100%;
+    /*
+
+    padding-right: 60px;
+    max-height: 500px;
+    max-width: 600px;
+    width: auto;
+    height: auto;
+
+     */
 }
 
 .text-center {
@@ -99,17 +107,20 @@ img {
 
 
 header {
-    background: url("../img/yellowPaleBlack-AirJordan1.jpg") no-repeat center;
-    /* above link works when compiled into css */
+    /*background: url("../img/yellowPaleBlack-AirJordan1.jpg") no-repeat center;
+     above link works when compiled into css
 
-    /* Rn trying to make the header img look good */
     background-size: cover;
     height: 800px;
-    position: relative;
+    position: relative; */
+
+    background-color: palegoldenrod;
+    background-size: cover;
+
     .top-nav {
         display: flex;
         justify-content: space-between;
-        padding: 40px 0px;
+        padding: 40px 0;
 
         .logo {
             font-weight: bold;
@@ -144,6 +155,7 @@ header {
     padding-bottom: 84px;
 
     .hero-image {
+        /* ]align-content: center; */
         padding-left: 60px;
     }
 
@@ -181,6 +193,19 @@ header {
         grid-template-columns: repeat(3, 1fr);
         grid-gap: $gutter;
         margin: 60px 0 60px;
+        grid-template-areas: "blog1 blog2 blog3";
+
+        #blog1 {
+            grid-area: blog1;
+        }
+
+        #blog2 {
+            grid-area: blog2;
+        }
+
+        #blog3 {
+            grid-area: blog3;
+        }
 
         .blog-title {
             text-align: center;
